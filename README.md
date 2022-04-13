@@ -14,7 +14,7 @@ At a high level, the pattern provides an AWS Lambda function code written and te
 - Copying existing AWS Systems Manager parameters to any cross account supported region
 
 
-##Target Architecture
+## Target Architecture
 
 ### TechnologyStack 
 
