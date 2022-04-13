@@ -1,0 +1,13 @@
+{
+  "Parameters":[
+    "foobar",
+    "test",
+    "sample",
+    "application"
+    ],
+    "path":["/api/","/dev/","/mydatabase/"],
+    "destination_region":"us-east-1",
+    "destination_account":"111122223333",
+    "cross_account_role_arn":"arn:aws:iam::123456789xxx:role/role_name",
+    "destination_kms_key_id":"mrk-9f1b02d7c8da4ad3b79d083bcxxxxxxx"
+}
